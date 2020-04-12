@@ -8,7 +8,9 @@
     <hr>
     <h2>Programming use Python Java C C++ C# Kotlin in Notebook and JavaScript Html Css in Asp.net</h2>
     <hr>
-      <img src="cat.jpg">
-   <a href="https://discord.gg/k89zhQs">My Discord</a>
+    <a href="https://discord.gg/k89zhQs">My Discord</a>
+    <hr>
+      <img src="cat.jpg" alt="Not My Cat">
+
   </body>
 </html>
