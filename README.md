@@ -1,3 +1,4 @@
+[![](http://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](http://www.youtube.com/watch?v=dQw4w9WgXcQ "")
 <!DOCTYPE html>
 <html>
   <head>
@@ -11,6 +12,5 @@
     <a href="https://discord.gg/k89zhQs">My Discord</a>
     <hr>
       <img src="cat.jpg" alt="Not My Cat">
-
   </body>
 </html>
