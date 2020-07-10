@@ -7,7 +7,7 @@
   <body>
     <h1>Hi I'm JE-Chen</h1>
     <hr>
-    <h2>Programming use Python Java C C++ C# Kotlin in Notebook and JavaScript Html Css in Asp.net</h2>
+    <h2>Programming use Python Java C C++ C# and JavaScript and use HyperText Markup Language Html and Css. UI/UX Design use Photoshop, Illustrator</h2>
     <hr>
     <a href="https://discord.gg/k89zhQs">My Discord</a>
     <hr>
