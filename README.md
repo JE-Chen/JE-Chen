@@ -5,6 +5,3 @@
 ## HI I'm JE-Chen a Software and Web Engineer,Normally use Java,C,C++,Python,PHP,JavaScript,R, C#,Html,Css Learing to use Rust Ruby Go Elixir CUDA and UI/UX design
 
 ## 我也開源了很多爛東西 :)
-<a href="https://discord.gg/k89zhQs">My Discord</a>
-<img src="cat.jpg" alt="Not My Cat">
-
