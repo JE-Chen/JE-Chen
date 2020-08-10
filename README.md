@@ -24,6 +24,3 @@
 <img alt="GitHub followers" src="https://img.shields.io/badge/Learning use-Go-red">
 <img alt="GitHub followers" src="https://img.shields.io/badge/Learning use-Elixir-red">
 <img alt="GitHub followers" src="https://img.shields.io/badge/Learning use-CUDA-red">
-
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/JE-Chen?style=social">
-<img alt="Discord" src="https://img.shields.io/discord/553539000200331284?style=plastic">
