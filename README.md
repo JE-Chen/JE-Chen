@@ -2,6 +2,28 @@
 
 * 我是 JE-Chen 一個全端工程師?(大概) 我會用各種語言撰寫前後端 也正在學UI/UX的設計 歡迎跟我交流
 
-* HI I'm JE-Chen a Software and Web Engineer,Normally use Java,C,C++,Python,PHP,JavaScript,R, C#,Html,Css Learing to use Rust Ruby Go Elixir CUDA and UI/UX design
+* HI I'm JE-Chen a Software and Web Engineer,Normally use Java,C,C++,Python,PHP,JavaScript,R, C#,Html,Bootstrap,Css Learing to use Rust Ruby Go Elixir CUDA and UI/UX design
 
 * 我也開源了很多爛東西 :)
+
+<img alt="GitHub followers" src="https://img.shields.io/badge/Program use-Java-green">
+<img alt="GitHub followers" src="https://img.shields.io/badge/Program use-C-green">
+<img alt="GitHub followers" src="https://img.shields.io/badge/Program use-C++-green">
+<img alt="GitHub followers" src="https://img.shields.io/badge/Program use-Python-green">
+<img alt="GitHub followers" src="https://img.shields.io/badge/Program use-PHP-green">
+<img alt="GitHub followers" src="https://img.shields.io/badge/Program use-JavaScript-green">
+<img alt="GitHub followers" src="https://img.shields.io/badge/Program use-R-green">
+<img alt="GitHub followers" src="https://img.shields.io/badge/Program use-C#-green">
+
+<img alt="GitHub followers" src="https://img.shields.io/badge/Web UI use-Html-green">
+<img alt="GitHub followers" src="https://img.shields.io/badge/Web UI-Css-green">
+<img alt="GitHub followers" src="https://img.shields.io/badge/Web UI-Bootstrap-green">
+
+<img alt="GitHub followers" src="https://img.shields.io/badge/Learning use-Rust-red">
+<img alt="GitHub followers" src="https://img.shields.io/badge/Learning use-Ruby-red">
+<img alt="GitHub followers" src="https://img.shields.io/badge/Learning use-Go-red">
+<img alt="GitHub followers" src="https://img.shields.io/badge/Learning use-Elixir-red">
+<img alt="GitHub followers" src="https://img.shields.io/badge/Learning use-CUDA-red">
+
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/JE-Chen?style=social">
+<img alt="Discord" src="https://img.shields.io/discord/553539000200331284?style=plastic">
