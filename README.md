@@ -24,3 +24,64 @@
 <img alt="GitHub followers" src="https://img.shields.io/badge/Learning use-Go-red">
 <img alt="GitHub followers" src="https://img.shields.io/badge/Learning use-Elixir-red">
 <img alt="GitHub followers" src="https://img.shields.io/badge/Learning use-CUDA-red">
+
+### (一) 專案目錄 :
+
+* Models : Model File (可依種類細分)
+
+* Classs : Class File (可依種類細分)
+
+* Interfaces : Interfaces File (可依種類細分)
+
+* Abstract_Classs : bstract_Class File(可依種類細分)
+
+* Test : Test File (可依種類細分)
+
+* Test_Source : Test use source File (可依種類細分)
+
+* Core : Core File(可依種類細分)
+
+* Token : Token File (可依種類細分)
+
+* Source : Resource File (可依種類細分)
+
+* Jar : Jar File (可依種類細分)
+
+* Doc : doc File (可依種類細分)
+
+* Example : example File (可依種類細分)
+
+* Exe : Executable File
+
+* Manifest : Android Manifest or another Manifest File
+
+* Res : Android source File
+
+* Drawable : Android 圖像檔 (可依種類細分)
+
+* Layout : Android layout檔 (可依種類細分)
+
+* Mipmap : Android icon檔 (可依種類細分)
+
+* Raw : Android 不壓縮檔 (可依種類細分)
+
+* Values : Android 顏色，字串，樣式檔(可依種類細分)
+
+* Xml : Android XML or Pure XNL File (可依種類細分)
+
+* src : java File 
+
+* Java : Android Java  or Pure Java File (可依種類細分)
+
+* Kotlin Android Kotlin  or Pure kotlin File (可依種類細分)
+
+* JavaScripts : JavaScript File (可依種類細分)
+
+* PHPs : PHP File (可依種類細分)
+
+* Htmls : Html File (可依種類細分)
+
+* CSS : CSS File (可依種類細分)
+
+* Python : Python File (可依種類細分)
+
