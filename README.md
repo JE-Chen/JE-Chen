@@ -16,8 +16,8 @@
 <img alt="GitHub followers" src="https://img.shields.io/badge/Program use-CShape-green">
 
 <img alt="GitHub followers" src="https://img.shields.io/badge/Web UI use-HTML5-green">
-<img alt="GitHub followers" src="https://img.shields.io/badge/Web UI-CSS-green">
-<img alt="GitHub followers" src="https://img.shields.io/badge/Web UI-BootStrap-green">
+<img alt="GitHub followers" src="https://img.shields.io/badge/Web UI use-CSS-green">
+<img alt="GitHub followers" src="https://img.shields.io/badge/Web UI use-BootStrap-green">
 
 <img alt="GitHub followers" src="https://img.shields.io/badge/Learning use-Rust-red">
 <img alt="GitHub followers" src="https://img.shields.io/badge/Learning use-Ruby-red">
