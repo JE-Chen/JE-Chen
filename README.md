@@ -1,10 +1,8 @@
-<a href="http://www.youtube.com/watch?v=dQw4w9WgXcQ">Just a link</a>
-
-* 我是 JE-Chen 一個全端工程師?(大概) 我會用各種語言撰寫前後端 也正在學UI/UX的設計 歡迎跟我交流
+## 我是 JE-Chen 一個全端工程師?(大概) 我會用各種語言撰寫前後端 也正在學UI/UX的設計 歡迎跟我交流
 
 * HI I'm JE-Chen a Software and Web Engineer
 
-* 我也開源了很多爛東西 :)
+*  我也開源了很多爛東西 :)
 
 <img alt="GitHub followers" src="https://img.shields.io/badge/Program use-Java-green">
 <img alt="GitHub followers" src="https://img.shields.io/badge/Program use-C-green">
