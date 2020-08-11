@@ -1,4 +1,4 @@
-[![](http://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](http://www.youtube.com/watch?v=dQw4w9WgXcQ "")
+<a href="http://www.youtube.com/watch?v=dQw4w9WgXcQ">Just a link</a>
 
 * 我是 JE-Chen 一個全端工程師?(大概) 我會用各種語言撰寫前後端 也正在學UI/UX的設計 歡迎跟我交流
 
