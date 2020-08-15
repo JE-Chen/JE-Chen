@@ -71,7 +71,7 @@
 
 * src : java File 
 
-* Java : Android Java  or Pure Java File (可依種類細分)
+* Javas : Android Java  or Pure Java File (可依種類細分)
 
 * Kotlin Android Kotlin  or Pure kotlin File (可依種類細分)
 
@@ -81,7 +81,11 @@
 
 * Htmls : Html File (可依種類細分)
 
-* CSS : CSS File (可依種類細分)
+* CSSs : CSS File (可依種類細分)
 
-* Python : Python File (可依種類細分)
+* Pythons : Python File (可依種類細分)
+
+* CFiles : C File (可依種類細分)
+
+* HPPs : HPP File  (可依種類細分)
 
