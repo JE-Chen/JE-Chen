@@ -127,6 +127,7 @@
 
 * <a href = "https://github.com/JE-Chen/Python_DataBase_JE">Python database</a>
 * <a href = "https://github.com/JE-Chen/Java_Database">Java database</a>
+* <a href = "https://github.com/JE-Chen/AndroidSQLite">Android sqlite</a>
 
 ### OCR
 
@@ -142,7 +143,8 @@
 * <a href = "https://github.com/JE-Chen/Java_WebSocket_Server">Java websocket server</a>
 * <a href = "https://github.com/JE-Chen/Java_WebSocket_Client">Java websocket client</a>
 * <a href = "https://github.com/JE-Chen/Python_WebSocket">Python websocket</a>
-* 
+* <a href = "https://github.com/JE-Chen/CSharp-Websocket-CS">C# websocket</a>
+
 ### Socket
 
 * <a href = "https://github.com/JE-Chen/C_Sockets_Server">C socket server</a>
@@ -173,6 +175,7 @@
 ### Rat
 
 * <a href = "https://github.com/JE-Chen/DroidRat_JE">Android rat</a>
+* <a href = "https://github.com/JE-Chen/droidRat_CSharpGUIServer_JE">Android rat's c# gui</a> 
 
 ### GameEngine
 
@@ -202,12 +205,38 @@
 ### Flask
 
 * <a href = "https://github.com/JE-Chen/Python_Flask_RESTFULAPI_JE">Python flask</a>
+* <a href = "https://github.com/JE-Chen/Python_WebBackend">Python webackend with flask</a>
 
 ### laravel
+
+### React
+
+* <a href = "https://github.com/JE-Chen/ReactJS_Page_JE">React.js</a>
 
 ### Web frontend
 
 * <a href = "https://github.com/JE-Chen/Web_Frontend_PersonFind">Python web frontend with flask</a>
+
+### Discord bot
+
+* <a href = "https://github.com/JE-Chen/Python_Discord_Bot_JE">Python discord bot</a>
+
+### Crawler
+
+* <a href = "https://github.com/JE-Chen/Python_WebCrawler_JE">Python crawler</a>
+
+### Tools
+
+* <a href = "https://github.com/JE-Chen/CSharp-Tools">C# tools</a>
+* <a href = "https://github.com/JE-Chen/Java-Tools">Java tools</a>
+* <a href = "https://github.com/JE-Chen/Android_ToolEdit">Android tools</a>
+
+### Downloader
+
+* <a href = "https://github.com/JE-Chen/AndroidTool_Downloader_JE">Android downloader</a>
+* <a href = "https://github.com/JE-Chen/AndroidTool_BitmapProcess_JE">Bitmap process</a>
+
+### Play sound
 
 ### Just final project
 
@@ -223,6 +252,7 @@
 * <a href = "https://github.com/JE-Chen/Java_Docker_Gradle_Test">Java gradle with docker test</a>
 * <a href = "https://github.com/JE-Chen/Python_Docker_Test_Project">Python docker test</a>
 * <a href = "https://github.com/JE-Chen/TestLaravelProject">Test laravel</a>
+* <a href = "https://github.com/JE-Chen/Android_WebSocket">Test android websocket</a>
 
 ### Case 
 
