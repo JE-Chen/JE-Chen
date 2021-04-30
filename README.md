@@ -88,8 +88,28 @@
 
 ---
 
-## Old repo
+## Old repo classify by type
 
 ---
 
 ### Game
+
+* <a href = "https://github.com/JE-Chen/Android-JustDrawItJEdition-JE">Just drawit</a>
+* <a href = "https://github.com/JE-Chen/Android_JE_Fighter_Basic">Fighter basic</a>
+* <a href = "https://github.com/JE-Chen/Python_MiniGame_Fighter">Python mini game</a>
+* <a href = "https://github.com/JE-Chen/Unity_NPC_Script_JE">Unity ai charater script</a>
+
+### Verification Code
+
+* <a href = "https://github.com/JE-Chen/Java_VerificationCode">Java verification code</a>
+* <a href = "https://github.com/JE-Chen/Python_Generate_Verification_Code">Python verification code</a>
+
+---
+
+## Old repo classify by language
+
+---
+
+### Java
+
+---
