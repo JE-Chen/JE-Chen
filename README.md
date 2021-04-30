@@ -3,14 +3,14 @@
 
 ---
 
-### Spotify Playing 🎧
+## Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Playing" width="350" />](https://open.spotify.com/user/31ycwbq5ludg7qwj6losnlzndnta)
 <br/>
 
 ---
 
-### Github stats
+## Github stats
 
 ![XPoet github stats](https://github-readme-stats.vercel.app/api?username=JE-Chen&show_icons=true)
 
@@ -18,9 +18,9 @@
 
 ---
 
-### Languages and Tools:
+## Languages and Tools:
 
-#### Languages :
+### Languages :
 <img align="left" alt="Java" width="40px" src="https://upload.wikimedia.org/wikipedia/zh/8/88/Java_logo.png" />
 
 <img align="left" alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
@@ -39,7 +39,7 @@
 
 ---
 
-#### Tools :
+### Tools :
 
 <img align="left" alt="Intellij" width="40px" src="https://lh3.googleusercontent.com/proxy/VmyCdCzhApKBPJloupATsz9CCCIOZtrAXPaqfGVef7PqlZHHgz8uNqY5E6657HKobOYv9OoyvDXc-A49j3KWx2ohU0K5" />
 
@@ -71,3 +71,25 @@
 <br/>
 
 ---
+
+## In process projects
+
+* <a href = "https://github.com/JE-Chen/JavaMail">Java Mail</a>
+* <a href = "https://github.com/JE-Chen/Python_DataBase_JE">Python Database</a>
+* <a href = "https://github.com/JE-Chen/Python_LogSystem">Python Log</a>
+* <a href = "https://github.com/JE-Chen/Python_JEAutoControl">Python Control</a>
+* <a href = "https://github.com/JE-Chen/Python_Gmail_JE">Python Mail</a>
+
+---
+
+## In dev projects
+
+* you can't see private repo 😅😅😅😅
+
+---
+
+## Old repo
+
+---
+
+### Game
