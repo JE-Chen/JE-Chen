@@ -90,8 +90,6 @@
 
 ## Old repo classify by type
 
----
-
 ### Game
 
 * <a href = "https://github.com/JE-Chen/Android-JustDrawItJEdition-JE">Just drawit</a>
