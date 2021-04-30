@@ -22,11 +22,15 @@
 
 <img align="left" alt="Intellij" width="40px" src="https://lh3.googleusercontent.com/proxy/VmyCdCzhApKBPJloupATsz9CCCIOZtrAXPaqfGVef7PqlZHHgz8uNqY5E6657HKobOYv9OoyvDXc-A49j3KWx2ohU0K5" />
 
+<img align="left" alt="Eclipse" width="40px" src="https://i.dlpng.com/static/png/7199121_preview.png" />
+
 <img align="left" alt="Visual Studio" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/1200px-Visual_Studio_2017_Logo.svg.png" />
 
 <img align="left" alt="Visual Studio" width="40px" src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png" />
 
 <img align="left" alt="Visual Studio Code" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" />
+
+<img align="left" alt="Clion" width="40px" src="https://resources.jetbrains.com/storage/products/clion/img/meta/clion_logo_300x300.png" />
 
 <br/>
 <br/>
