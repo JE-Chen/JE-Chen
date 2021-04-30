@@ -94,12 +94,17 @@
 
 * <a href = "https://github.com/JE-Chen/JE-Chen">This file</a>
 
+### Auto Control
+
+* <a href = "https://github.com/JE-Chen/Python_JEAutoControl">Python auto control</a>
+
 ### Game
 
 * <a href = "https://github.com/JE-Chen/Android-JustDrawItJEdition-JE">Just drawit</a>
 * <a href = "https://github.com/JE-Chen/Android_JE_Fighter_Basic">Fighter basic</a>
 * <a href = "https://github.com/JE-Chen/Python_MiniGame_Fighter">Python mini game</a>
 * <a href = "https://github.com/JE-Chen/Unity_NPC_Script_JE">Unity ai charater script</a>
+* <a href = "https://github.com/JE-Chen/JavaScript-PHP-Game">The game use js and php</a>
 
 ### Verification Code
 
@@ -128,13 +133,22 @@
 * <a href = "https://github.com/JE-Chen/Python_OCR_JE">Python ocr</a>
 * <a href = "https://github.com/JE-Chen/Android-OCR-FirebaseMLkit-JE">Android ocr with mlkit</a>
 
+### Chat room
+
+* <a href = "https://github.com/JE-Chen/Java_Chatroom_websocket">Java chat room with websocket</a>
+
+### Websocket
+
+* <a href = "https://github.com/JE-Chen/Java_WebSocket_Server">Java websocket server</a>
+* <a href = "https://github.com/JE-Chen/Java_WebSocket_Client">Java websocket client</a>
+* <a href = "https://github.com/JE-Chen/Python_WebSocket">Python websocket</a>
+* 
 ### Socket
 
 * <a href = "https://github.com/JE-Chen/C_Sockets_Server">C socket server</a>
 * <a href = "https://github.com/JE-Chen/C_Sockets_Client">C socket client</a>
 * <a href = "https://github.com/JE-Chen/Java_SocketClient_JE">Java socket client</a>
 * <a href = "https://github.com/JE-Chen/C_Sockets_Server">C socket server</a>
-
 
 ### Design pattern
 
@@ -179,8 +193,25 @@
 ### File IO
 
 * <a href = "https://github.com/JE-Chen/Java_FileIO">Java file io</a>
-* 
+
+### Cryptography
+
+* <a href = "https://github.com/JE-Chen/Python_Cryptography">Python cryptography</a>
+* <a href = "https://github.com/JE-Chen/Java_Cryptography">Java cryptography</a>
+
+### Flask
+
+* <a href = "https://github.com/JE-Chen/Python_Flask_RESTFULAPI_JE">Python flask</a>
+
 ### laravel
+
+### Web frontend
+
+* <a href = "https://github.com/JE-Chen/Web_Frontend_PersonFind">Python web frontend with flask</a>
+
+### Just final project
+
+* <a href = "https://github.com/JE-Chen/finalProject_nknySystem">Nknu system</a>
 
 ### Just homework
 
