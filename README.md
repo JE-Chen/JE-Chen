@@ -104,6 +104,19 @@
 * <a href = "https://github.com/JE-Chen/Java_VerificationCode">Java verification code</a>
 * <a href = "https://github.com/JE-Chen/Python_Generate_Verification_Code">Python verification code</a>
 
+### Mail
+
+* <a href = "https://github.com/JE-Chen/JavaMail">Java mail</a>
+* <a href = "https://github.com/JE-Chen/Csharp_Mail">C# mail</a>
+* <a href = "https://github.com/JE-Chen/Python_Mail">Python mail</a>
+* <a href = "https://github.com/JE-Chen/Python_Gmail_JE">Python gmail</a>
+* <a href = "https://github.com/JE-Chen/HTML_Gmail_Template">HTML mail templete</a>
+
+### Just test
+
+* <a href = "https://github.com/JE-Chen/Java_Docker_Gradle_Test">Java gradle with docker test</a>
+* <a href = "https://github.com/JE-Chen/Python_Docker_Test_Project">Python docker test</a>
+
 ---
 
 ## Old repo classify by language
