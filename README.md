@@ -112,17 +112,14 @@
 * <a href = "https://github.com/JE-Chen/Python_Gmail_JE">Python gmail</a>
 * <a href = "https://github.com/JE-Chen/HTML_Gmail_Template">HTML mail templete</a>
 
+### Database
+
+* <a href = "https://github.com/JE-Chen/Python_DataBase_JE">Python database</a>
+* <a href = "https://github.com/JE-Chen/Java_Database">Java database</a>
+
 ### Just test
 
 * <a href = "https://github.com/JE-Chen/Java_Docker_Gradle_Test">Java gradle with docker test</a>
 * <a href = "https://github.com/JE-Chen/Python_Docker_Test_Project">Python docker test</a>
-
----
-
-## Old repo classify by language
-
----
-
-### Java
 
 ---
