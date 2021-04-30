@@ -117,6 +117,11 @@
 * <a href = "https://github.com/JE-Chen/Python_DataBase_JE">Python database</a>
 * <a href = "https://github.com/JE-Chen/Java_Database">Java database</a>
 
+### OCR
+
+* <a href = "https://github.com/JE-Chen/Python_OCR_JE">Python ocr</a>
+* <a href = "https://github.com/JE-Chen/Android-OCR-FirebaseMLkit-JE">Android ocr with mlkit</a>
+
 ### Just test
 
 * <a href = "https://github.com/JE-Chen/Java_Docker_Gradle_Test">Java gradle with docker test</a>
