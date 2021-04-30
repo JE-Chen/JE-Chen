@@ -1,4 +1,5 @@
-## HI I'm JE-Chen
+## 🧾 HI I'm JE-Chen
+## 📧 Mail : zenmailman@gmail.com
 
 ### Spotify Playing 🎧
 
@@ -14,7 +15,15 @@
 
 <img align="left" alt="C#" width="40px" src="https://i.pinimg.com/originals/97/cf/2c/97cf2ccd659ef9b00dd0aa15137130ec.png" />
 
-<img align="left" alt="Pycharm" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/220px-PyCharm_Icon.svg.png" />
+<img align="left" alt="C" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />
+
+<img align="left" alt="C++" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
+
+<img align="left" alt="PHP" width="40px" src="https://pngimg.com/uploads/php/php_PNG43.png" />
+
+<img align="left" alt="Go" width="40px" src="https://i.pinimg.com/originals/ca/1f/74/ca1f746d6f232f87fca4e4d94ef6f3ab.png" />
+
+<img align="left" alt="Ruby" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" />
 
 ---
 
@@ -37,6 +46,10 @@
 <img align="left" alt="RubyMine" width="40px" src="https://resources.jetbrains.com/storage/products/rubymine/img/meta/rubymine_logo_300x300.png" />
 
 <img align="left" alt="Phpstorm" width="40px" src="https://resources.jetbrains.com/storage/products/phpstorm/img/meta/phpstorm_logo_300x300.png" />
+
+<img align="left" alt="Webstorm" width="40px" src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" />
+
+<img align="left" alt="Goland" width="40px" src="https://resources.jetbrains.com/storage/products/goland/img/meta/goland_logo_300x300.png" />
 
 <img align="left" alt="UE4" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/20/UE_Logo_Black_Centered.svg" />
 
