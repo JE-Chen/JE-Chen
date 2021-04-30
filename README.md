@@ -88,7 +88,7 @@
 
 ---
 
-## Old repo classify by type ps: if link error then repo is private 😅😅😅😅
+## Old repo classify by type ps: link error = repo is private 😅😅😅😅
 
 ### This file
 
@@ -100,6 +100,7 @@
 
 ### Game
 
+* <a href = "https://github.com/JE-Chen/Android_Aoaruche_JE">First Project</a>
 * <a href = "https://github.com/JE-Chen/Android-JustDrawItJEdition-JE">Just drawit</a>
 * <a href = "https://github.com/JE-Chen/Android_JE_Fighter_Basic">Fighter basic</a>
 * <a href = "https://github.com/JE-Chen/Python_MiniGame_Fighter">Python mini game</a>
@@ -144,13 +145,15 @@
 * <a href = "https://github.com/JE-Chen/Java_WebSocket_Client">Java websocket client</a>
 * <a href = "https://github.com/JE-Chen/Python_WebSocket">Python websocket</a>
 * <a href = "https://github.com/JE-Chen/CSharp-Websocket-CS">C# websocket</a>
+* <a href = "https://github.com/JE-Chen/JavaScript_WebSocket_JE">JavaScript websocket</a>
 
 ### Socket
 
 * <a href = "https://github.com/JE-Chen/C_Sockets_Server">C socket server</a>
 * <a href = "https://github.com/JE-Chen/C_Sockets_Client">C socket client</a>
 * <a href = "https://github.com/JE-Chen/Java_SocketClient_JE">Java socket client</a>
-* <a href = "https://github.com/JE-Chen/C_Sockets_Server">C socket server</a>
+* <a href = "https://github.com/JE-Chen/Csharp_Socket_Server">C# socket server</a>
+* <a href = "https://github.com/JE-Chen/Csharp_Socket_Client">C# socket client</a>
 
 ### Design pattern
 
@@ -184,6 +187,10 @@
 ### WebRTC
 
 * <a href = "https://github.com/JE-Chen/WebRTC_Test">WebRTC</a>
+
+### Webcam
+
+* <a href = "https://github.com/JE-Chen/Java_Webcam">Java webcam</a>
 
 ### Keyboard receive
 
@@ -237,6 +244,9 @@
 * <a href = "https://github.com/JE-Chen/AndroidTool_BitmapProcess_JE">Bitmap process</a>
 
 ### Play sound
+
+* <a href = "https://github.com/JE-Chen/Csharp_Playsound">C# play sound</a>
+* <a href = "https://github.com/JE-Chen/JavaScript_Audio">JavaScript play sound</a>
 
 ### Just final project
 
