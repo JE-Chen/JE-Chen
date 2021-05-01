@@ -230,6 +230,7 @@
 * <a href = "https://github.com/JE-Chen/C_Sockets_Server">C socket server</a>
 * <a href = "https://github.com/JE-Chen/C_Sockets_Client">C socket client</a>
 * <a href = "https://github.com/JE-Chen/Java_SocketClient_JE">Java socket client</a>
+* * <a href = "https://github.com/JE-Chen/Java_SocketServer_JE">Java socket server</a>
 * <a href = "https://github.com/JE-Chen/Csharp_Socket_Server">C# socket server</a>
 * <a href = "https://github.com/JE-Chen/Csharp_Socket_Client">C# socket client</a>
 
