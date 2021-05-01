@@ -140,6 +140,7 @@
 
 * <a href = "https://github.com/JE-Chen/AndroidTool_Downloader_JE">Android downloader</a>
 * <a href = "https://github.com/JE-Chen/AndroidTool_BitmapProcess_JE">Bitmap process</a>
+* <a href = "https://github.com/JE-Chen/Java_DownloadFile">Java download file</a>
 
 ### Flask
 
@@ -158,6 +159,7 @@
 * <a href = "https://github.com/JE-Chen/Python_MiniGame_Fighter">Python mini game</a>
 * <a href = "https://github.com/JE-Chen/Unity_NPC_Script_JE">Unity ai charater script</a>
 * <a href = "https://github.com/JE-Chen/JavaScript-PHP-Game">The game use js and php</a>
+* <a href = "https://github.com/JE-Chen/Java_GameLoop">Java game loop</a>
 
 ### GameEngine
 
@@ -221,6 +223,10 @@
 * <a href = "https://github.com/JE-Chen/DroidRat_JE">Android rat</a>
 * <a href = "https://github.com/JE-Chen/droidRat_CSharpGUIServer_JE">Android rat's c# gui</a> 
 
+### RestfulAPI
+
+* <a href = "https://github.com/JE-Chen/Java_RestfulAPI_JE">Java restfui api</a> 
+
 ### Simulation
 
 * <a href = "https://github.com/JE-Chen/Python_Simulation">Python simulation</a>
@@ -270,5 +276,8 @@
 
 * <a href = "https://github.com/JE-Chen/Web_Frontend_PersonFind">Python web frontend with flask</a>
 
+### Zip
+
+* <a href = "https://github.com/JE-Chen/Java_ZipAndUnZip">Java zip and unzip</a>
 
 ---
