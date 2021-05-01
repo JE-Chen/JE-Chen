@@ -116,6 +116,11 @@
 ### Crawler
 
 * <a href = "https://github.com/JE-Chen/Python_WebCrawler_JE">Python crawler</a>
+* <a href = "https://github.com/JE-Chen/Python_PornHubCrawler_JE">hmm you know...</a>
+
+### Collision test
+
+* <a href = "https://github.com/JE-Chen/Java_Collision_JE">Java collision</a>
 
 ### Case 
 
@@ -149,6 +154,7 @@
 ### File IO
 
 * <a href = "https://github.com/JE-Chen/Java_FileIO">Java file io</a>
+* <a href = "https://github.com/JE-Chen/Python_FileIO">Python file io</a>
 
 ### Game
 
@@ -163,6 +169,10 @@
 ### GameEngine
 
 * <a href = "https://github.com/JE-Chen/GameEngine_JE">Game engine</a>
+
+### Google API
+
+* <a href = "https://github.com/JE-Chen/Python_DriverAPI_UP_Download_JE">Python Google driver api</a>
 
 ### Image detect
 
@@ -203,6 +213,15 @@
 
 * <a href = "https://github.com/JE-Chen/Python_LogSystem">Python log system</a>
 
+### Line bot
+
+* <a href = "https://github.com/JE-Chen/Python_Mask_Bot_TaiwanOnly_JE">Python line bot mask map</a>
+* <a href = "https://github.com/JE-Chen/Python_Line_BOT_Basic_JE">Python line bot lib</a>
+
+### NLP
+
+* <a href = "https://github.com/JE-Chen/Python_NLP_JE">Python nlp using jieba and ckip</a>
+
 ### OpenGL
 
 * <a href = "https://github.com/JE-Chen/Python_OpenGL_JE">Python opengl</a>
@@ -226,6 +245,10 @@
 * <a href = "https://github.com/JE-Chen/JavaScript_Audio">JavaScript play sound</a>
 * <a href = "https://github.com/JE-Chen/Java_Soundplay_JE">Java play sound</a>
 * <a href = "https://github.com/JE-Chen/Android_Singelton_MediaPlayer_JE">Android singeltion not thread safe media player</a>
+
+### QRCODE
+
+* <a href = "https://github.com/JE-Chen/Android_QRCode_Zxing_JE">Android qrcode scan and spawn</a>
 
 ### Rat
 
@@ -253,6 +276,14 @@
 
 * <a href = "https://github.com/JE-Chen/CPP_SFML_JE">C++ sfml test</a>
 
+### SDL
+
+* <a href = "https://github.com/JE-Chen/CPP_SDL_JE">C++ sdl test</a>
+
+### Stream
+
+* <a href = "https://github.com/JE-Chen/Python_Videos_Screenshot_JE">Python video</a>
+
 ### Templete
 
 * <a href = "https://github.com/JE-Chen/HTML_Gmail_Template">HTML mail templete</a>
@@ -263,6 +294,22 @@
 * <a href = "https://github.com/JE-Chen/CSharp-Tools">C# tools</a>
 * <a href = "https://github.com/JE-Chen/Java-Tools">Java tools</a>
 * <a href = "https://github.com/JE-Chen/Android_ToolEdit">Android tools</a>
+
+### Text cloud
+
+* <a href = "https://github.com/JE-Chen/R_TextCloud_JE">R text cloud</a>
+
+### Translate
+
+* <a href = "https://github.com/JE-Chen/Python_Translate_JE">Python translate</a>
+
+### Time
+
+* <a href = "https://github.com/JE-Chen/Python_Time_JE">Python time module</a>
+
+### Telegram bot
+
+* <a href = "https://github.com/JE-Chen/Python_Telegram_Bot_JE">Python test telegram bot</a>
 
 ### Verification Code
 
