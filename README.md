@@ -135,7 +135,6 @@
 
 * <a href = "https://github.com/JE-Chen/Design-Pattern-JE">Design pattern</a>
 
-
 ### Downloader
 
 * <a href = "https://github.com/JE-Chen/AndroidTool_Downloader_JE">Android downloader</a>
@@ -164,6 +163,10 @@
 ### GameEngine
 
 * <a href = "https://github.com/JE-Chen/GameEngine_JE">Game engine</a>
+
+### Image detect
+
+* <a href = "https://github.com/JE-Chen/Python_Similarity_Image">Python detect similarity</a>
 
 ### Just final project
 
@@ -204,6 +207,10 @@
 
 * <a href = "https://github.com/JE-Chen/Python_OpenGL_JE">Python opengl</a>
 
+### OpenCV
+
+* <a href = "https://github.com/JE-Chen/Python_OPENCV_JE">Python opencv</a>
+
 ### OpenData
 
 * <a href = "https://github.com/JE-Chen/Python_GOV_OpenData">Open Data</a>
@@ -217,6 +224,8 @@
 
 * <a href = "https://github.com/JE-Chen/Csharp_Playsound">C# play sound</a>
 * <a href = "https://github.com/JE-Chen/JavaScript_Audio">JavaScript play sound</a>
+* <a href = "https://github.com/JE-Chen/Java_Soundplay_JE">Java play sound</a>
+* <a href = "https://github.com/JE-Chen/Android_Singelton_MediaPlayer_JE">Android singeltion not thread safe media player</a>
 
 ### Rat
 
@@ -239,6 +248,10 @@
 * * <a href = "https://github.com/JE-Chen/Java_SocketServer_JE">Java socket server</a>
 * <a href = "https://github.com/JE-Chen/Csharp_Socket_Server">C# socket server</a>
 * <a href = "https://github.com/JE-Chen/Csharp_Socket_Client">C# socket client</a>
+
+### SFML
+
+* <a href = "https://github.com/JE-Chen/CPP_SFML_JE">C++ sfml test</a>
 
 ### Templete
 
