@@ -72,7 +72,14 @@
 
 ---
 
-## In process projects
+## In dev projects
+
+* you can't see private repo 😅😅😅😅
+* <a href = "https://github.com/JE-Chen/DroidRat_JE">Android rat</a>
+
+---
+
+## In dev repo
 
 * <a href = "https://github.com/JE-Chen/JavaMail">Java Mail</a>
 * <a href = "https://github.com/JE-Chen/Python_DataBase_JE">Python Database</a>
@@ -82,13 +89,7 @@
 
 ---
 
-## In dev projects
-
-* you can't see private repo 😅😅😅😅
-
----
-
-## Old repo classify by type ps: link error = repo is private 😅😅😅😅
+## Old repo classify by type ps: some repo is private 😅😅😅😅
 
 ### This file
 
@@ -97,6 +98,57 @@
 ### Auto Control
 
 * <a href = "https://github.com/JE-Chen/Python_JEAutoControl">Python auto control</a>
+
+### Audio chat
+
+* <a href = "https://github.com/JE-Chen/Java_AudioChat_Server">Java audio server</a>
+* <a href = "https://github.com/JE-Chen/Java_AudioChat_Client">Python audio client</a>
+
+### Chat room
+
+* <a href = "https://github.com/JE-Chen/Java_Chatroom_websocket">Java chat room with websocket</a>
+
+### Cryptography
+
+* <a href = "https://github.com/JE-Chen/Python_Cryptography">Python cryptography</a>
+* <a href = "https://github.com/JE-Chen/Java_Cryptography">Java cryptography</a>
+
+### Crawler
+
+* <a href = "https://github.com/JE-Chen/Python_WebCrawler_JE">Python crawler</a>
+
+### Case 
+
+* <a href = "https://github.com/JE-Chen/Android_TempChart_Work">Android tempchart</a>
+
+### Discord bot
+
+* <a href = "https://github.com/JE-Chen/Python_Discord_Bot_JE">Python discord bot</a>
+
+### Database
+
+* <a href = "https://github.com/JE-Chen/Python_DataBase_JE">Python database</a>
+* <a href = "https://github.com/JE-Chen/Java_Database">Java database</a>
+* <a href = "https://github.com/JE-Chen/AndroidSQLite">Android sqlite</a>
+
+### Design pattern
+
+* <a href = "https://github.com/JE-Chen/Design-Pattern-JE">Design pattern</a>
+
+
+### Downloader
+
+* <a href = "https://github.com/JE-Chen/AndroidTool_Downloader_JE">Android downloader</a>
+* <a href = "https://github.com/JE-Chen/AndroidTool_BitmapProcess_JE">Bitmap process</a>
+
+### Flask
+
+* <a href = "https://github.com/JE-Chen/Python_Flask_RESTFULAPI_JE">Python flask</a>
+* <a href = "https://github.com/JE-Chen/Python_WebBackend">Python webackend with flask</a>
+
+### File IO
+
+* <a href = "https://github.com/JE-Chen/Java_FileIO">Java file io</a>
 
 ### Game
 
@@ -107,146 +159,9 @@
 * <a href = "https://github.com/JE-Chen/Unity_NPC_Script_JE">Unity ai charater script</a>
 * <a href = "https://github.com/JE-Chen/JavaScript-PHP-Game">The game use js and php</a>
 
-### Verification Code
-
-* <a href = "https://github.com/JE-Chen/Java_VerificationCode">Java verification code</a>
-* <a href = "https://github.com/JE-Chen/Python_Generate_Verification_Code">Python verification code</a>
-
-### Mail
-
-* <a href = "https://github.com/JE-Chen/JavaMail">Java mail</a>
-* <a href = "https://github.com/JE-Chen/Csharp_Mail">C# mail</a>
-* <a href = "https://github.com/JE-Chen/Python_Mail">Python mail</a>
-* <a href = "https://github.com/JE-Chen/Python_Gmail_JE">Python gmail</a>
-
-### Templete
-
-* <a href = "https://github.com/JE-Chen/HTML_Gmail_Template">HTML mail templete</a>
-* <a href = "https://github.com/JE-Chen/Android-Template">Android template</a>
-
-### Database
-
-* <a href = "https://github.com/JE-Chen/Python_DataBase_JE">Python database</a>
-* <a href = "https://github.com/JE-Chen/Java_Database">Java database</a>
-* <a href = "https://github.com/JE-Chen/AndroidSQLite">Android sqlite</a>
-
-### OCR
-
-* <a href = "https://github.com/JE-Chen/Python_OCR_JE">Python ocr</a>
-* <a href = "https://github.com/JE-Chen/Android-OCR-FirebaseMLkit-JE">Android ocr with mlkit</a>
-
-### Chat room
-
-* <a href = "https://github.com/JE-Chen/Java_Chatroom_websocket">Java chat room with websocket</a>
-
-### Websocket
-
-* <a href = "https://github.com/JE-Chen/Java_WebSocket_Server">Java websocket server</a>
-* <a href = "https://github.com/JE-Chen/Java_WebSocket_Client">Java websocket client</a>
-* <a href = "https://github.com/JE-Chen/Python_WebSocket">Python websocket</a>
-* <a href = "https://github.com/JE-Chen/CSharp-Websocket-CS">C# websocket</a>
-* <a href = "https://github.com/JE-Chen/JavaScript_WebSocket_JE">JavaScript websocket</a>
-
-### Socket
-
-* <a href = "https://github.com/JE-Chen/C_Sockets_Server">C socket server</a>
-* <a href = "https://github.com/JE-Chen/C_Sockets_Client">C socket client</a>
-* <a href = "https://github.com/JE-Chen/Java_SocketClient_JE">Java socket client</a>
-* <a href = "https://github.com/JE-Chen/Csharp_Socket_Server">C# socket server</a>
-* <a href = "https://github.com/JE-Chen/Csharp_Socket_Client">C# socket client</a>
-
-### Design pattern
-
-* <a href = "https://github.com/JE-Chen/Design-Pattern-JE">Design pattern</a>
-
-### OpenGL
-
-* <a href = "https://github.com/JE-Chen/Python_OpenGL_JE">Python opengl</a>
-
-### OpenData
-
-* <a href = "https://github.com/JE-Chen/Python_GOV_OpenData">Open Data</a>
-
-### Log system
-
-* <a href = "https://github.com/JE-Chen/Python_LogSystem">Python log system</a>
-
-### Simulation
-
-* <a href = "https://github.com/JE-Chen/Python_Simulation">Python simulation</a>
-
-### Rat
-
-* <a href = "https://github.com/JE-Chen/DroidRat_JE">Android rat</a>
-* <a href = "https://github.com/JE-Chen/droidRat_CSharpGUIServer_JE">Android rat's c# gui</a> 
-
 ### GameEngine
 
 * <a href = "https://github.com/JE-Chen/GameEngine_JE">Game engine</a>
-
-### WebRTC
-
-* <a href = "https://github.com/JE-Chen/WebRTC_Test">WebRTC</a>
-
-### Webcam
-
-* <a href = "https://github.com/JE-Chen/Java_Webcam">Java webcam</a>
-
-### Keyboard receive
-
-* <a href = "https://github.com/JE-Chen/JavaScript_Keyboard">Keyboard receive</a>
-
-### Http server
-
-* <a href = "https://github.com/JE-Chen/Java_HttpServer">Java http server</a>
-
-### File IO
-
-* <a href = "https://github.com/JE-Chen/Java_FileIO">Java file io</a>
-
-### Cryptography
-
-* <a href = "https://github.com/JE-Chen/Python_Cryptography">Python cryptography</a>
-* <a href = "https://github.com/JE-Chen/Java_Cryptography">Java cryptography</a>
-
-### Flask
-
-* <a href = "https://github.com/JE-Chen/Python_Flask_RESTFULAPI_JE">Python flask</a>
-* <a href = "https://github.com/JE-Chen/Python_WebBackend">Python webackend with flask</a>
-
-### laravel
-
-### React
-
-* <a href = "https://github.com/JE-Chen/ReactJS_Page_JE">React.js</a>
-
-### Web frontend
-
-* <a href = "https://github.com/JE-Chen/Web_Frontend_PersonFind">Python web frontend with flask</a>
-
-### Discord bot
-
-* <a href = "https://github.com/JE-Chen/Python_Discord_Bot_JE">Python discord bot</a>
-
-### Crawler
-
-* <a href = "https://github.com/JE-Chen/Python_WebCrawler_JE">Python crawler</a>
-
-### Tools
-
-* <a href = "https://github.com/JE-Chen/CSharp-Tools">C# tools</a>
-* <a href = "https://github.com/JE-Chen/Java-Tools">Java tools</a>
-* <a href = "https://github.com/JE-Chen/Android_ToolEdit">Android tools</a>
-
-### Downloader
-
-* <a href = "https://github.com/JE-Chen/AndroidTool_Downloader_JE">Android downloader</a>
-* <a href = "https://github.com/JE-Chen/AndroidTool_BitmapProcess_JE">Bitmap process</a>
-
-### Play sound
-
-* <a href = "https://github.com/JE-Chen/Csharp_Playsound">C# play sound</a>
-* <a href = "https://github.com/JE-Chen/JavaScript_Audio">JavaScript play sound</a>
 
 ### Just final project
 
@@ -264,8 +179,95 @@
 * <a href = "https://github.com/JE-Chen/TestLaravelProject">Test laravel</a>
 * <a href = "https://github.com/JE-Chen/Android_WebSocket">Test android websocket</a>
 
-### Case 
+### Keyboard receive
 
-* <a href = "https://github.com/JE-Chen/Android_TempChart_Work">Android tempchart</a>
+* <a href = "https://github.com/JE-Chen/JavaScript_Keyboard">Keyboard receive</a>
+
+### Http server
+
+* <a href = "https://github.com/JE-Chen/Java_HttpServer">Java http server</a
+
+### Mail
+
+* <a href = "https://github.com/JE-Chen/JavaMail">Java mail</a>
+* <a href = "https://github.com/JE-Chen/Csharp_Mail">C# mail</a>
+* <a href = "https://github.com/JE-Chen/Python_Mail">Python mail</a>
+* <a href = "https://github.com/JE-Chen/Python_Gmail_JE">Python gmail</a>
+
+### Log system
+
+* <a href = "https://github.com/JE-Chen/Python_LogSystem">Python log system</a>
+
+### OpenGL
+
+* <a href = "https://github.com/JE-Chen/Python_OpenGL_JE">Python opengl</a>
+
+### OpenData
+
+* <a href = "https://github.com/JE-Chen/Python_GOV_OpenData">Open Data</a>
+
+### OCR
+
+* <a href = "https://github.com/JE-Chen/Python_OCR_JE">Python ocr</a>
+* <a href = "https://github.com/JE-Chen/Android-OCR-FirebaseMLkit-JE">Android ocr with mlkit</a>
+
+### Play sound
+
+* <a href = "https://github.com/JE-Chen/Csharp_Playsound">C# play sound</a>
+* <a href = "https://github.com/JE-Chen/JavaScript_Audio">JavaScript play sound</a>
+
+### Rat
+
+* <a href = "https://github.com/JE-Chen/DroidRat_JE">Android rat</a>
+* <a href = "https://github.com/JE-Chen/droidRat_CSharpGUIServer_JE">Android rat's c# gui</a> 
+
+### Simulation
+
+* <a href = "https://github.com/JE-Chen/Python_Simulation">Python simulation</a>
+
+### Socket
+
+* <a href = "https://github.com/JE-Chen/C_Sockets_Server">C socket server</a>
+* <a href = "https://github.com/JE-Chen/C_Sockets_Client">C socket client</a>
+* <a href = "https://github.com/JE-Chen/Java_SocketClient_JE">Java socket client</a>
+* <a href = "https://github.com/JE-Chen/Csharp_Socket_Server">C# socket server</a>
+* <a href = "https://github.com/JE-Chen/Csharp_Socket_Client">C# socket client</a>
+
+### Templete
+
+* <a href = "https://github.com/JE-Chen/HTML_Gmail_Template">HTML mail templete</a>
+* <a href = "https://github.com/JE-Chen/Android-Template">Android template</a>
+
+### Tools
+
+* <a href = "https://github.com/JE-Chen/CSharp-Tools">C# tools</a>
+* <a href = "https://github.com/JE-Chen/Java-Tools">Java tools</a>
+* <a href = "https://github.com/JE-Chen/Android_ToolEdit">Android tools</a>
+
+### Verification Code
+
+* <a href = "https://github.com/JE-Chen/Java_VerificationCode">Java verification code</a>
+* <a href = "https://github.com/JE-Chen/Python_Generate_Verification_Code">Python verification code</a>
+* 
+### Websocket
+
+* <a href = "https://github.com/JE-Chen/Java_WebSocket_Server">Java websocket server</a>
+* <a href = "https://github.com/JE-Chen/Java_WebSocket_Client">Java websocket client</a>
+* <a href = "https://github.com/JE-Chen/Python_WebSocket">Python websocket</a>
+* <a href = "https://github.com/JE-Chen/CSharp-Websocket-CS">C# websocket</a>
+* <a href = "https://github.com/JE-Chen/JavaScript_WebSocket_JE">JavaScript websocket</a>
+
+### WebRTC
+
+* <a href = "https://github.com/JE-Chen/WebRTC_Test">WebRTC</a>
+
+### Webcam
+
+* <a href = "https://github.com/JE-Chen/Java_Webcam">Java webcam</a>
+
+### Web frontend
+
+* <a href = "https://github.com/JE-Chen/Web_Frontend_PersonFind">Python web frontend with flask</a>
+
 
 ---
