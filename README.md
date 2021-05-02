@@ -41,7 +41,7 @@
 
 ### Tools :
 
-<img align="left" alt="Intellij" width="40px" src="https://lh3.googleusercontent.com/proxy/VmyCdCzhApKBPJloupATsz9CCCIOZtrAXPaqfGVef7PqlZHHgz8uNqY5E6657HKobOYv9OoyvDXc-A49j3KWx2ohU0K5" />
+<img align="left" alt="Intellij" width="40px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" />
 
 <img align="left" alt="Android Studio" width="40px" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" />
 
