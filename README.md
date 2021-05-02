@@ -76,6 +76,7 @@
 
 * you can't see private repo 😅😅😅😅
 * <a href = "https://github.com/JE-Chen/DroidRat_JE">Android rat</a>
+* <a href = "https://github.com/JE-Chen/JEScript">JE script</a>
 
 ---
 
@@ -177,6 +178,10 @@
 ### Image detect
 
 * <a href = "https://github.com/JE-Chen/Python_Similarity_Image">Python detect similarity</a>
+
+### JE script
+
+* <a href = "https://github.com/JE-Chen/JEScript">JE script</a>
 
 ### Just final project
 
