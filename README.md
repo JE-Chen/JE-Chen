@@ -35,7 +35,10 @@
 
 <img align="left" alt="Go" width="40px" src="https://i.pinimg.com/originals/ca/1f/74/ca1f746d6f232f87fca4e4d94ef6f3ab.png" />
 
-<img align="left" alt="Ruby" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" />
+<img align="left" alt="Ruby" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png"/>
+
+</br>
+</br>
 
 ---
 
@@ -67,7 +70,6 @@
 
 <img align="left" alt="Unity" width="40px" src="https://memeprod.sgp1.digitaloceanspaces.com/user-resource/ceceeb986decb6afd790ff00f9fe3720.png" />
 
-<br/>
 <br/>
 
 ---
