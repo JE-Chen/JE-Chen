@@ -79,7 +79,7 @@
 * you can't see private repo 😅😅😅😅
 * <a href = "https://github.com/JE-Chen/DroidRat_JE">Android rat</a>
 * <a href = "https://github.com/JE-Chen/JEScript">JE script</a>
-
+* <a href = "https://github.com/JE-Chen/Android_DataInnovationRace">Android DataInnovationRace</a>
 ---
 
 ## In dev repo
