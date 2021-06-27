@@ -337,7 +337,7 @@
 
 * <a href = "https://github.com/JE-Chen/Java_VerificationCode">Java verification code</a>
 * <a href = "https://github.com/JE-Chen/Python_Generate_Verification_Code">Python verification code</a>
-* 
+
 ### Websocket
 
 * <a href = "https://github.com/JE-Chen/Java_WebSocket_Server">Java websocket server</a>
