@@ -90,7 +90,8 @@
 * you can't see private repo 😅😅😅😅
 * <a href = "https://github.com/JE-Chen/DroidRat_JE">Android rat</a>
 * <a href = "https://github.com/JE-Chen/JEScript">JE script</a>
-* <a href = "https://github.com/JE-Chen/Android_DataInnovationRace">Android DataInnovationRace</a>
+* <a href = "https://github.com/JE-Chen/Python_AutoControl">Python auto control gui</a>
+
 ---
 
 ## In dev repo
@@ -230,6 +231,11 @@
 * <a href = "https://github.com/JE-Chen/Csharp_Mail">C# mail</a>
 * <a href = "https://github.com/JE-Chen/Python_Mail">Python mail</a>
 * <a href = "https://github.com/JE-Chen/Python_Gmail_JE">Python gmail</a>
+
+### Google Map
+
+* <a href = "https://github.com/JE-Chen/Android_TravelMap">Android TravelMap</a>
+
 
 ### Log system
 
