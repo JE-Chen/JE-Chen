@@ -74,13 +74,4 @@
 
 <img align="left" alt="Unity" width="40px" src="https://memeprod.sgp1.digitaloceanspaces.com/user-resource/ceceeb986decb6afd790ff00f9fe3720.png" />
 
-<br/>
-
----
-### Framework :
-
-<img align="left" alt="Bootstrap" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/220px-Bootstrap_logo.svg.png" />
-
-<br/>
-
 ---
