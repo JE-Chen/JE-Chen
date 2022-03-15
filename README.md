@@ -1,6 +1,5 @@
 ## 🧾 HI I'm JE-Chen
 ## 📧 Mail : zenmailman@gmail.com
-## Discord TAG : JE-Chen#0001 
 
 
 ## Github stats
