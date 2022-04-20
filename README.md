@@ -58,4 +58,4 @@
 #### Java : 3 year
 #### Android : 2 year
 #### C# : half of a year
-#### HTML-CSS-JS : half of a year
+#### HTML-JS : half of a year
