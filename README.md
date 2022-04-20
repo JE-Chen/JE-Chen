@@ -54,6 +54,10 @@
 
 ### Familiar with
 
+#### python, java
+
+### experience
+
 #### Python : 4 year
 #### Java : 3 year
 #### Android : 2 year
