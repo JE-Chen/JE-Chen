@@ -48,3 +48,14 @@
 
 <img align="left" alt="Webstorm" width="40px" src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" />
 
+</br>
+
+---
+
+### Familiar with
+
+#### Python : 4 year
+#### Java : 3 year
+#### Android : 2 year
+#### C# : half of a year
+#### HTML-CSS-JS : half of a year
