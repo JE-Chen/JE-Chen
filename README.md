@@ -5,11 +5,6 @@
 ## Github stats
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=JE-Chen&show_icons=true&theme=radical)
-
-<br/>
-
----
-
 ## Languages and Tools:
 
 ### Languages :
@@ -23,7 +18,6 @@
 
 <img align="left" alt="HTML5" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png"/>
 
-</br>
 </br>
 
 ---
@@ -56,14 +50,12 @@
 
 #### python, java
 
-</br>
-
 ---
 
 ### experience (total learning and working with program language time)
 
-#### Python : 3 year
-#### Java : 3 year
-#### Android : 1 year
-#### C# : half of a year
-#### HTML-JS : half of a year
+* Python : 3 year (major)
+* Java : 3 year (major)
+* Android : 1 year (secondary)
+* C# : half of a year (secondary)
+* HTML-JS : half of a year (secondary)
