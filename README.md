@@ -62,8 +62,8 @@
 
 ### experience
 
-#### Python : 4 year
-#### Java : 3 year
-#### Android : 2 year
+#### Python : 2 year
+#### Java : 2 year
+#### Android : 1 year
 #### C# : half of a year
 #### HTML-JS : half of a year
