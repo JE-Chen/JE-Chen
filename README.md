@@ -14,10 +14,6 @@
 
 <img align="left" alt="C#" width="40px" src="https://i.pinimg.com/originals/97/cf/2c/97cf2ccd659ef9b00dd0aa15137130ec.png" />
 
-<img align="left" alt="JavaScript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"/>
-
-<img align="left" alt="HTML5" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png"/>
-
 </br>
 
 ---
