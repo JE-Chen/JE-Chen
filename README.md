@@ -53,7 +53,7 @@
 * Python : 3 year (major)
 * Java : 2 year (major)
 * Android : 1 year (secondary)
-* C# : half of a year (secondary)
+* C# : 1 year (secondary)
 * JS &  : half of a year (secondary)
 * C : half of a year (secondary)
 * C++ : half of a year (secondary)
