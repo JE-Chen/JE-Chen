@@ -38,6 +38,8 @@
 
 <img align="left" alt="Webstorm" width="40px" src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" />
 
+<img align="left" alt="PyCharm" width="40px" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" />
+
 </br>
 
 ---
