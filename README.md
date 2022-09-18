@@ -4,7 +4,7 @@
 
 ## Github stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=JE-Chen&show_icons=true&theme=radical)
+![Github stats](https://github-readme-stats.vercel.app/api?username=JE-Chen&show_icons=true)
 ## Languages and Tools:
 
 ### Languages :
