@@ -52,7 +52,7 @@
 
 ### experience (total learning and working with program language time)
 
-* Python : 3 year (major)
+* Python : 4 year (major)
 * Java : 2 year (major)
 * Android : 1 year (secondary)
 * JS &  : half of a year (secondary)
