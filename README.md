@@ -1,7 +1,7 @@
-## 🧾 HI I'm JE-Chen
-> ITE creator and maintainer.
+#  🫠 HI I'm JE-Chen 🫠
+## ITE creator and maintainer.
+## If you want to see my repo, click my organization like Integrated Testing Environment
 ## 📧 Mail : jechenmailman@gmail.com
-
 
 ## Github stats
 
