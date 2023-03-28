@@ -1,5 +1,5 @@
 ## 🧾 HI I'm JE-Chen
-## 📧 Mail : zenmailman@gmail.com
+## 📧 Mail : jechenmailman@gmail.com
 
 
 ## Github stats
