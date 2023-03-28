@@ -1,4 +1,5 @@
 ## 🧾 HI I'm JE-Chen
+> ITE creator and maintainer.
 ## 📧 Mail : jechenmailman@gmail.com
 
 
@@ -41,18 +42,14 @@
 </br>
 
 ---
+> work experience (working with program language)
+> * Python : half of a year
 
-### Familiar with
-
-#### python, java
-
----
-
-### experience (total learning and working with program language time)
-
-* Python : 4 year (major)
-* Java : 2 year (major)
-* Android : 1 year (secondary)
-* JS &  : half of a year (secondary)
-* C : half of a year (secondary)
-* C++ : half of a year (secondary)
+> experience (total learning program language time)
+> * Python : 4 year (major)
+> * Java : 2 year (major)
+> * Android : 1 year
+> * C# : half of a year 
+> * JS &  : half of a year 
+> * C : half of a year 
+> * C++ : half of a year 
