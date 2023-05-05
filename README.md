@@ -6,7 +6,11 @@
 
 ## Github stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=JE-Chen&show_icons=true&theme=radical)
+<a href="https://github.com/JE-Chen/github-stats">
+<img src="https://github.com/JE-Chen/github-stats/blob/master/generated/overview.svg" />
+<img src="https://github.com/JE-Chen/github-stats/blob/master/generated/languages.svg" />
+</a>
+
 ## Languages and Tools:
 
 ### Languages :
