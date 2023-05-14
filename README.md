@@ -1,7 +1,6 @@
 #  🫠 HI I'm JeffreyChen, you can call me JE-Chen 🫠
-## ITE creator and maintainer.
-## ITE Kanban https://github.com/users/JE-Chen/projects/44
-## If you want to see my repo, click my organization like Integrated Testing Environment
+## My tasks kanban https://github.com/orgs/Intergration-Automation-Testing/projects/2/views/1
+## If you want to see my repo, click my organization
 ## 📧 Mail : jechenmailman@gmail.com
 
 ## Github stats
@@ -47,7 +46,7 @@
 
 ---
 > work experience (working with program language)
-> * Python : half of a year
+> * Python : 1 year
 
 > experience (total learning program language time)
 > * Python : 4 year (major)
