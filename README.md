@@ -5,9 +5,9 @@
 
 ## Github stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=JE-Chen&show_icons=true&theme=radical)
+![](https://raw.githubusercontent.com/JE-Chen/stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/JE-Chen/stats/master/generated/languages.svg#gh-dark-mode-only)
 
-</a>
 
 ## Languages and Tools:
 
