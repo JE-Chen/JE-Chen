@@ -61,7 +61,7 @@
 
 CONTRIBUTING
 
-* Jenkins doc.
-* Unity doc.
-* Locust README.md & Build file.
-* pynecone README.md
+* Jenkins doc. (Add docs)
+* Unity doc. (Fix doc error)
+* Locust README.md & Build file. (Refactor README.md & Add new build file)
+* pynecone README.md (Translate english version to traditional chinese version)
