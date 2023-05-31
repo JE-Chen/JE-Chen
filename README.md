@@ -56,3 +56,12 @@
 > * JS &  : half of a year 
 > * C : half of a year 
 > * C++ : half of a year 
+
+---
+
+CONTRIBUTING
+
+* Jenkins doc.
+* Unity doc.
+* Locust README.md & Build file.
+* pynecone README.md
