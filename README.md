@@ -71,3 +71,4 @@ CONTRIBUTING
 * Unity doc. (Fix doc error)
 * Locust README.md & Build file. (Refactor README.md & Add new build file)
 * pynecone README.md (Translate & Edit docs)
+* EdgeGPT (Fix blocked IP problem)
