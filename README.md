@@ -22,4 +22,4 @@
 
 [If you have any question, Open the issue on my README.md](README.md)
 
-[Video](videos/unwrapped-JE-Chen.mp4)
+![Steam Profile](https://github-readme-steam-status.vercel.app/status/?steamid=76561198220185375)
