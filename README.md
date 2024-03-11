@@ -3,27 +3,26 @@
   * If you want to see my repo, click organization.
   * 📧 Mail : jechenmailman@gmail.com | zenmailman@gmail.com 
 
-* Programming using
-  * Python 4 year+ & 1 year work
-  * Java  2 year+
-  * C# 1 year+
-
-* Open-source
-  * Bing Copilot API.
-  * Automation.
-  * Python IDE.
-  * Game (Maybe).
-
 * Interesting in below
   * Automation framework design.
   * Automation tool design.
+  * Design tool platform. 
   * DevOps.
-  * AI.
-
+  * Generative AI.
+  * Game design.
+  
 [If you have any question, Open the issue on my README.md](README.md)
 
-https://steamcommunity.com/id/jechen45/
+---
+### Analysis
+https://gitroll.io/result/ijzQ9ca3psaCg5kVNs67
 
+---
+### Discord
 https://discordapp.com/users/440905661774168064
+
+---
+### Steam
+https://steamcommunity.com/id/jechen45/
 
 ![Steam Profile](https://steam-status.vercel.app/status/?steamid=76561198220185375)
