@@ -11,7 +11,7 @@
   * Generative AI.
   * Game design.
   
-[If you have any question, Open the issue on this repo issue]([Issue](https://github.com/JE-Chen/JE-Chen/issues))
+[If you have any question, Open the issue on this repo](https://github.com/JE-Chen/JE-Chen/issues)
 
 ---
 ### Analysis
