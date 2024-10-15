@@ -1,3 +1,5 @@
+#### If you have any question please open issue on JE-Chen/JE-chen repo.
+
 * HI I'm JeffreyChen, you can call me JE-Chen.
   * My tasks kanban https://github.com/orgs/Integration-Automation/projects/2/views/1
   * If you want to see my repo, click organization.
